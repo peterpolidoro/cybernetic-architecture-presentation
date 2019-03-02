@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/audio-controller.png)](human-robot-teensy)
+[![](assets/img/audio-controller.png)](hearing-range)
