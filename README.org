@@ -1,0 +1,15 @@
+#+TITLE: cybernetic-architecture
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Repository Information
+  - Author :: Peter Polidoro
+  - License :: BSD
+
+  [[https://peterpolidoro.github.io/cybernetic-architecture/]]
+
+* Presentation
+
+  [[https://peterpolidoro.github.io/cybernetic-architecture/][Slides]]
+
+  [[https://peterpolidoro.github.io/cybernetic-architecture/text][Text]]
