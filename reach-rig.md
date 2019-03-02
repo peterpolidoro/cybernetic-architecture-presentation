@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/reach-rig.png)](reach-rig)
+[![](assets/img/reach-experiment.png)](reach-experiment)
