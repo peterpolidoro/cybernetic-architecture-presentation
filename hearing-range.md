@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/hearing-range.png)](reach-rig)
+[![](assets/img/hearing-range.png)](reach-experiment)
