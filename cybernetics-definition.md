@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/cybernetics-definition.png)](mechatronics-animals)
+[![](assets/img/cybernetics-definition.png)](cybernetics)
