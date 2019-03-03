@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/sailboat-lighthouse.png)](sailboat-lighthouse)
+[![](assets/img/sailboat-lighthouse.png)](cybernetics-definition)
