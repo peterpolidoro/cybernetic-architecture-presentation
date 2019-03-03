@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/fly-sleep.png)](fly-sleep)
+[![](assets/img/fly-sleep.png)](behavioral-rigs)
