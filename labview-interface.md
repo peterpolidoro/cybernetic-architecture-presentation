@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/labview-interface.png)](labview-interface)
+[![](assets/img/labview-interface.png)](heliostat-roof)
