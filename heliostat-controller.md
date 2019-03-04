@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/heliostat-controller.png)](heliostat-controller)
+[![](assets/img/heliostat-controller.png)](delta-tau)
