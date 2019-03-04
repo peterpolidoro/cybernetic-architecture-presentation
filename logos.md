@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/logos.png)](logos)
+[![](assets/img/logos.png)](tape-burnisher)
