@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/mechatronics-animals.png)](logos)
+[![](assets/img/mechatronics-animals.png)](architecture-definition)
