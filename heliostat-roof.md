@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/heliostat-roof.png)](heliostat-modeling)
+[![](assets/img/heliostat-roof.png)](idealab)
