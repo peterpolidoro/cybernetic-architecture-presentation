@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/delta-tau.png)](delta-tau)
+[![](assets/img/delta-tau.png)](caltech)
