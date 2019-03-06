@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/caltech.png)](caltech)
+[![](assets/img/caltech.png)](flyatar)
