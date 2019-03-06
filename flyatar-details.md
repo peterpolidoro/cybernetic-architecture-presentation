@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/flyatar-details.png)](flyatar-details)
+[![](assets/img/flyatar-details.gif)](flyatar-details)
