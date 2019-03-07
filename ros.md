@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/ros.png)](ros)
+[![](assets/img/ros.png)](alcohol-assay)
