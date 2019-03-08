@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/led-controller-new.png)](led-controller-new)
+[![](assets/img/led-controller-new.png)](make-or-buy)
