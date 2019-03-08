@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/make-and-buy.png)](make-and-buy)
+[![](assets/img/make-and-buy.png)](devices)
