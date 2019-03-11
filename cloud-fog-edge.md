@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/cloud-fog-edge.png)](cloud-fog-edge)
+[![](assets/img/cloud-fog-edge.png)](soc)
