@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/modular.png)](modular)
+[![](assets/img/modular.png)](dds-navy)
