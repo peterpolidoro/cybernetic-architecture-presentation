@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/soc.png)](soc)
+[![](assets/img/soc.png)](modular)
