@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/pub-sub.png)](dds-labview-matlab)
+[![](assets/img/pub-sub.png)](dds-embedded)
