@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/devices.png)](devices)
+[![](assets/img/devices.png)](embedded)
