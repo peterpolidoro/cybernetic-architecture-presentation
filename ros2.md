@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/ros2.png)](ros2)
+[![](assets/img/ros2.png)](ros-hardware)
