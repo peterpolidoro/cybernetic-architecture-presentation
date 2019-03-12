@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/dds-navy.png)](pub-sub)
+[![](assets/img/dds-navy.png)](dds-industries)
