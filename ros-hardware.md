@@ -2,4 +2,4 @@
 layout: presentation
 ---
 
-[![](assets/img/ros-hardware.png)](96-boards)
+[![](assets/img/ros-hardware.png)](random-hardware)
